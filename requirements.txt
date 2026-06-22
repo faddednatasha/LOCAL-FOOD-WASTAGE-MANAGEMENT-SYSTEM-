@@ -5,3 +5,4 @@ plotly>=5.20.0
 matplotlib
 seaborn
 python-dotenv>=1.0.0
+
